@@ -14,6 +14,7 @@
 		BEE3046E23E0863000EE82CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEE3046C23E0863000EE82CE /* LaunchScreen.storyboard */; };
 		BEE3047623E08FC900EE82CE /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE3047523E08FC900EE82CE /* SettingsViewController.swift */; };
 		BEE3047823E09AE200EE82CE /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE3047723E09AE200EE82CE /* MainView.swift */; };
+		BEE3047A23E0BD7700EE82CE /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE3047923E0BD7700EE82CE /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BEE3046F23E0863000EE82CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEE3047523E08FC900EE82CE /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		BEE3047723E09AE200EE82CE /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		BEE3047923E0BD7700EE82CE /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BEE3046523E0862C00EE82CE /* MainViewController.swift */,
 				BEE3047523E08FC900EE82CE /* SettingsViewController.swift */,
 				BEE3047723E09AE200EE82CE /* MainView.swift */,
+				BEE3047923E0BD7700EE82CE /* SettingsView.swift */,
 				BEE3046A23E0863000EE82CE /* Assets.xcassets */,
 				BEE3046C23E0863000EE82CE /* LaunchScreen.storyboard */,
 				BEE3046F23E0863000EE82CE /* Info.plist */,
@@ -143,6 +146,7 @@
 				BEE3046623E0862C00EE82CE /* MainViewController.swift in Sources */,
 				BEE3046223E0862C00EE82CE /* AppDelegate.swift in Sources */,
 				BEE3046423E0862C00EE82CE /* SceneDelegate.swift in Sources */,
+				BEE3047A23E0BD7700EE82CE /* SettingsView.swift in Sources */,
 				BEE3047823E09AE200EE82CE /* MainView.swift in Sources */,
 				BEE3047623E08FC900EE82CE /* SettingsViewController.swift in Sources */,
 			);
